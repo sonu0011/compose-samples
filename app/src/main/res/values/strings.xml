@@ -2,4 +2,7 @@
     <string name="app_name">Basic Compose</string>
     <string name="more">more</string>
     <string name="profile_pic">Profile pic</string>
+    <string name="add_icon">Add icon</string>
+    <string name="send_message">Send message</string>
+    <string name="post_pic">Post pic</string>
 </resources>
